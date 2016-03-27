@@ -1,6 +1,6 @@
 lazy val root = (project in file(".")).
   settings(
-    name := "actor_test",
+    name := "akka_experiments",
     version := "0.1.3",
     scalaVersion := "2.11.7"
   )
